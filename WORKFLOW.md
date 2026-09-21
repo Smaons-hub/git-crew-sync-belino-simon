@@ -15,3 +15,12 @@ I intentionally made a conflicting double-time pay change in clone A without fet
 the push was rejected. And is resolved via git fetch + git rebase, combining overtime, rounding, and double-time logic into one single function.
 ![Task 4 conflict](screenshots/task4-firsthalf.png)
 ![Task 4 resolved push](screenshots/task4-secondhalf.png)
+
+## Task 5: Merge back into Main
+I merged the finished feature/overtime-pay branch into main and pushed the update to
+GitHub.
+![Task 5 evidence](screenshots/task5.png)
+
+## Task 6: Tag and Finalize
+Tagged the final synced commit as v1.0-synced and pushed the tag to GitHub
+![Task 6 evidence](screenshots/task6.png)
